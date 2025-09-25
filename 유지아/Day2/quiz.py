@@ -1,3 +1,4 @@
+#1
 year=int(input())
 if (year%4==0)&(year%100!=0):
     print(1)
